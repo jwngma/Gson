@@ -1,0 +1,22 @@
+{
+  "name": "This is my code",
+  "owner": {
+    "name": "jengma",
+    "address": {
+      "city": "cityyy",
+      "houseno": "45",
+      "street": "kalaka",
+      "country": ""
+    }
+  },
+  "cook": {
+    "age": "34",
+    "name": "jendc",
+    "salary": "78965"
+  },
+  "waiter": {
+    "age": "34",
+    "name": "jaggu",
+    "salary": "78965"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "age": 23,
+  "email": "smkbty@gmail.com",
+  "name": "jwngma",
+  "isDeveloper": true,
+  "userAddress": {
+    "street": "main Street",
+    "houseNumber": "34",
+    "city": "noida",
+    "country": "India"
+  }
+}

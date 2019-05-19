@@ -1,0 +1,35 @@
+{
+  "email": "smkbty@gmail.com",
+  "fitrst_name": "jwngma",
+  "address": {
+    "city": "delhi",
+    "country": "germany"
+  },
+  "age": 22,
+  "family": [
+    {
+      "role": "wide",
+      "age": 30
+    },
+    {
+      "role": "gather",
+      "age": 400
+    },
+    {
+      "role": "ddd",
+      "age": 400
+    },
+    {
+      "role": "ddds",
+      "age": 45
+    },
+    {
+      "role": "sfd",
+      "age": 555
+    },
+    {
+      "role": "dddd",
+      "age": 22
+    }
+  ]
+}
